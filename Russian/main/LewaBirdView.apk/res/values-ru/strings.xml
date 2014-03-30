@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">BirdView</string>
-  <string name="mb">Мб</string>
+    <string name="mb">Мб</string>
     <string name="gb">Гб</string>
     <string name="nosim">Нет данных о трафике</string>
     <string name="nosim_set">Лимит не задан</string>
@@ -10,7 +10,7 @@
     <string name="noalarm">Будильник</string>
     <string name="off">Выкл</string>
     <string name="on">Вкл</string>
-    <string name="alarm">Будил.</string>
+    <string name="alarm">Будильник</string>
     <string name="power_on">Сбер.</string>
     <string name="power_surplus">Осталось</string>
     <string name="power_full">Зарядка</string>
